@@ -57,10 +57,16 @@ Primary technical builder on an ML delivery engagement for a major global e-comm
 ### 📊 GitHub Stats
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Invictus-Core&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Invictus-Core&theme=radical" width="48%" />
+  <img src="./profile-summary-card-output/aura_dark/0-profile-details.svg" width="100%" />
 </p>
-
+<p align="center">
+  <img src="./profile-summary-card-output/aura_dark/1-repos-per-language.svg" width="32%" />
+  <img src="./profile-summary-card-output/aura_dark/2-most-commit-language.svg" width="32%" />
+  <img src="./profile-summary-card-output/aura_dark/3-stats.svg" width="32%" />
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/aura_dark/4-productive-time.svg" width="60%" />
+</p>
 
 ---
 
