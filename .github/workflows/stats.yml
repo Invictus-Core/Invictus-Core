@@ -1,4 +1,4 @@
-name: Generate Stats Images
+name: GitHub-Profile-Summary-Cards
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -7,7 +7,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: jstrippel/github-profile-summary-cards@main
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
-          user: Invictus-Core
+          USERNAME: Invictus-Core
