@@ -55,11 +55,12 @@ Primary technical builder on an ML delivery engagement for a major global e-comm
 ---
 
 ### 📊 GitHub Stats
-
+ 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Invictus-Core&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Invictus-Core&theme=radical" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Invictus-Core&theme=radical" width="48%" />
 </p>
+
 
 ---
 
